@@ -47,7 +47,7 @@
                                 
                             </ul>
 
-                            <form action="" method="GET">
+                            
                                 <input type="hidden" name="product-title" value="Activewear">
                                 <div class="row">
                                  
@@ -65,13 +65,13 @@
                                 </div>
                                 <div class="row pb-3">
                                     <div class="col d-grid">
-                                        <button type="submit" class="btn btn-success btn-lg" name="submit" value="buy">Buy</button>
+                                        <button type="submit" class="btn btn-success btn-lg" formaction="#">Buy</button>
                                     </div>
                                     <div class="col d-grid">
-                                        <button type="submit" class="btn btn-success btn-lg" name="submit" value="addtocard">Add To Cart</button>
+                                        <button type="submit" class="btn btn-success btn-lg" formaction="#">Add To Cart</button>
                                     </div>
                                 </div>
-                            </form>
+                            
 
                         </div>
                     </div>

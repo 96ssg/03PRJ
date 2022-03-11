@@ -88,7 +88,7 @@
 					</tr>
 					<tr>
 						<th width="150">전화번호</th>
-						<td width="300"><input type="number" id="uTel" name="uTel"></td>
+						<td width="300"><input type="text" id="uTel" name="uTel"></td>
 					</tr>
 					<tr>
 						<th width="150">주소</th>
